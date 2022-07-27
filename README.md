@@ -40,7 +40,7 @@ For each case of the CFOP method (78 cases, 21 PLL and 57 OLL) I took the averag
 <img src="img/Modello_base_tutto.png" width=550>
 
 The distribution of residuals is centered in 0.<br>
-Not all DVs are significant, but the F-test suggests that we can reject the hyptohesis of all $\beta_i$ being 0.<br>
+Not all DVs are significant, but the F-statistic suggests that we can reject the hyptohesis of all $\beta_i$ being 0.<br>
 $R^2$ and $R^2_{adj}$ are good and the residual standard error is 0.1255.<br>
 This is already a good predicition, but there are still ways to improve it.
 
