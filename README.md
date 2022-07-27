@@ -108,11 +108,11 @@ $\text{Time} = 0.238 + 0.052 \cdot \text{SHTM} + 2.124 \cdot \text{Risk} + 0.074
 <img src="img/Random_forest_alg.png" width=550>
 
 $R^2$ = 0.8935<br>
-Mean Absolute Error 0.07788 <br>
-Mean Squared Error 0.01107<br>
-Root Mean Squared Error 0.10522<br>
+Mean Absolute Error 0.0779 <br>
+Mean Squared Error 0.0111<br>
+Root Mean Squared Error 0.1052<br>
 
-<b>Feature Importance</b>
+<b>Feature Importance</b><br>
 SHTM = 0.47 <br>
 Risk = 0.41
 
